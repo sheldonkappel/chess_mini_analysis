@@ -1,4 +1,4 @@
-# Chess Database Games Mini-Analysis in Python
+# Chess Games Mini-Analysis in Python
 
 <img src = "chess.jpg" alt = "" width = "378" height = "250">
 
