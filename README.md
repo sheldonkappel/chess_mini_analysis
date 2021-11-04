@@ -20,3 +20,5 @@ This is more so a work-in-progress as the majority of the notebook file involves
 <img src = "chess_histogram.JPG" alt = "">
 
 <img src = "chess_pie_chart.JPG" alt = "">
+
+<img src = "time_forfeit_visual.JPG" alt = "">
