@@ -15,4 +15,6 @@ This is more so a work-in-progress as the majority of the notebook file involves
 * See which openings are popular with titled players
 * Delve deeper into opening popularity
 
-## Results
+## Visuals
+
+<img src = "chess_histogram.JPG" alt = "">
