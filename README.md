@@ -10,11 +10,6 @@ This is more so a work-in-progress as the majority of the notebook file involves
 * Grouped the games into 5 opening categories and looked at the distribution of these opening players with the average ratings of the players in the respective games
 * Looked at the effect of time control on the amount of games lost by time forfeit.
 
-## TODO
-* Analyze more specific openings and their winrates for White and Black
-* See which openings are popular with titled players
-* Delve deeper into opening popularity
-
 ## Visuals
 
 <img src = "chess_histogram.JPG" alt = "">
@@ -22,3 +17,8 @@ This is more so a work-in-progress as the majority of the notebook file involves
 <img src = "chess_pie_chart.JPG" alt = "">
 
 <img src = "time_forfeit_visual.JPG" alt = "">
+
+## TODO
+* Analyze more specific openings and their winrates for White and Black
+* See which openings are popular with titled players
+* Delve deeper into opening popularity
